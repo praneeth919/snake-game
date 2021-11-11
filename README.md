@@ -1,2 +1,5 @@
-# snake-game
-The classic snake game built on godot engine.
+ 2D snake game with godot game engine 
+ 
+ video link : https://www.youtube.com/watch?v=XIHp1cOUSB0
+ 
+ ![](snake_screenshot.png)

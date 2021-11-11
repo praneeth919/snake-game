@@ -19,3 +19,9 @@ margin_right = 198.0
 margin_bottom = 276.0
 custom_fonts/normal_font = SubResource( 1 )
 custom_colors/default_color = Color( 0, 0, 0, 1 )
+<<<<<<< HEAD
+=======
+__meta__ = {
+"_edit_use_anchors_": false
+}
+>>>>>>> 5bdb6e7 (added)

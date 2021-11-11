@@ -33,5 +33,9 @@ ESC={
 
 [rendering]
 
+<<<<<<< HEAD
 environment/default_clear_color=Color( 0.638664, 0.816406, 0.538956, 1 )
+=======
+environment/default_clear_color=Color( 0.733333, 0.423529, 0.941176, 1 )
+>>>>>>> 5bdb6e7 (added)
 environment/default_environment="res://default_env.tres"

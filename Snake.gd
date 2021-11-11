@@ -126,4 +126,8 @@ func _draw():
 
 	draw_rect(Rect2(Vector2(New_Pos),Vector2(10,10)),Color(0,0,0))
 
+<<<<<<< HEAD
 	draw_rect(Rect2(Vector2(0,240),Vector2(240,40)),Color("a2d089"))
+=======
+	draw_rect(Rect2(Vector2(0,240),Vector2(240,40)),Color("bb6cf0"))
+>>>>>>> 5bdb6e7 (added)
